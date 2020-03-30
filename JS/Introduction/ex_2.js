@@ -1,7 +1,7 @@
-// Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
+// Create a function that gives an interval (between x and y) and displays all even numbers
 
 
-function pares(x, y) {
+function even(x, y) {
 
     if (x < y)
         for (var i = x; i <= y; i++)
@@ -15,4 +15,4 @@ function pares(x, y) {
 
 }
 
-pares(324, 321);
+even(324, 321);
