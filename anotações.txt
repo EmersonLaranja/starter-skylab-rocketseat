@@ -1,0 +1,3 @@
+npm add @babel/cli : interface de linha de comando do babel
+
+npm add @babel/preset-env : entende o ambiente que estamos (ex:browser) e converte as features mais atuais que alguns navegadores não entendem
