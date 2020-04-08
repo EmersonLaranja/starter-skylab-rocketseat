@@ -1,0 +1,5 @@
+        mongoose é um Object Realating Map (ao inves de usarmos a linguagem da base de dados, usaremos JS)
+
+        model é algo no modelo mVC que representa uma tabela no banco de dados ou uma estrutura de dados que guardaremos no banco de dados
+        
+
